@@ -38,7 +38,7 @@ python --version
 Clone this repository to your local machine:
 
 ```bash
-git clone [https://github.com/webkolog/py-age-finder.git](https://github.com/webkolog/py-age-finder.git)
+git clone https://github.com/webkolog/py-age-finder.git
 cd py-age-finder
 
 ```
